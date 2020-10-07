@@ -838,7 +838,7 @@ Para verlo de forma gráfica buscaremos el valor 18 en la lista [1, 3, 5, 7, 9, 
 
 <br>
 <div align="center"> 
-  <img src="readme_img/búsqueda-binaria.png" width="500">
+  <img src="readme_img/busqueda-binaria.png" width="500">
 </div>
 <br>
 
